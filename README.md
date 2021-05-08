@@ -1,6 +1,6 @@
-# Status Huawei & Hilink
+# Status Huawei Manager & Hilink
 
-# Status Huawei Jaringan 3G Only
+# Status Huawei Manager v5 Jaringan 3G Only
 ![be](https://raw.githubusercontent.com/boychongzen18/hilink_huaweimanager/main/huawei.jpg)
 
 # Status Hilink Jaringan 3G Only
