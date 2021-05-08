@@ -1,9 +1,9 @@
 # Status Huawei & Hilink
 
-# Status Huawei
+# Status Huawei Jaringan 3G Only
 ![be](https://raw.githubusercontent.com/boychongzen18/hilink_huaweimanager/main/huawei.jpg)
 
-# Status Hilink
+# Status Hilink Jaringan 3G Only
 ![be](https://raw.githubusercontent.com/boychongzen18/hilink_huaweimanager/main/hilink.jpg)
 
  Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
