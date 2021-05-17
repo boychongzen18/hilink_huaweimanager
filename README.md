@@ -3,6 +3,10 @@
 # Status Modem Jaringan 3G Only
 ![be](https://raw.githubusercontent.com/boychongzen18/hilink_huaweimanager/main/modem.jpg)
 
+# Status Huawei Manager v5 Jaringan 4G Only
+![be](https://raw.githubusercontent.com/boychongzen18/hilink_huaweimanager/main/axis.jpg)
+
+
 # Status Huawei Manager v5 Jaringan 3G Only
 ![be](https://raw.githubusercontent.com/boychongzen18/hilink_huaweimanager/main/huawei.jpg)
 
